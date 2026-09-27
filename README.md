@@ -1,6 +1,6 @@
 # data-science
 ---
-Изучаю теоретические основы и практические инструменты для погружения в Data Science. | Studying the theoretical foundations and practical tools to get into Data Science.
+Studying the theoretical foundations and practical tools to get into Data Science. | Изучаю теоретические основы и практические инструменты для погружения в Data Science.
 ---
 Среда: Miniconda + pip. | Environment: Miniconda + pip.
 
